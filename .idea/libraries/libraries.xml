@@ -2,8 +2,13 @@
   <library name="libraries">
     <CLASSES>
       <root url="jar://$PROJECT_DIR$/lib/hashids-1.0.1.jar!/" />
+      <root url="file://$USER_HOME$/.sdkman/candidates/javafx-sdk-17.0.10/lib" />
     </CLASSES>
     <JAVADOC />
+    <NATIVE>
+      <root url="file://$USER_HOME$/.sdkman/candidates/javafx-sdk-17.0.10/lib" />
+    </NATIVE>
     <SOURCES />
+    <jarDirectory url="file://$USER_HOME$/.sdkman/candidates/javafx-sdk-17.0.10/lib" recursive="false" />
   </library>
 </component>
